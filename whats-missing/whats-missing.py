@@ -6,6 +6,8 @@
 #import sip
 #sip.setapi('QString', 2)
 
+"""Uses Python 3.4.4 so that PySide 1.2.4 can be used"""
+
 import sys
 from PySide import QtCore, QtGui
 
